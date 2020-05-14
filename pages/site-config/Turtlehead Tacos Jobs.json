@@ -14,7 +14,7 @@
     }
   },
   "repoConfig": {
-    "targetRepoName": "${{turtleheadTacosJobs_targetRepo}}",
+    "targetRepoName": "jobs-answers.turtleheadtacos-${{businessId}}.com",
     "templateRepo": "github.com/big-ol-sandbox/jobs-answers.turtleheadtacos-ANS301.com"
   },
   "siteName": "Turtlehead Tacos Jobs"
